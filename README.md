@@ -14,10 +14,18 @@
 <a href="https://medium.com/@wallyson.galvao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@wallyson.galvao" height="25" width="25" /></a>
 </p>
 
-- 🔭 I’m currently working on **[Banco do Brasil App](https://www.bb.com.br/pbb/pagina-inicial)** with React Native, sometimes with Javascript, sometimes with Typescript, It's cool.
-- 🌱 I’m currently learning **Docker and Cloud (CGP, Azure and AWS)**, these things are crazy.
+
+
+- 🔭 I’m currently working on **[Sportidia](https://www.sportidia.com/)** with React Native and Zustand + Apollo Client, It's cool.
+- 🌱 I’m currently learning **Animations for React Native**, these things are crazy.
 - 📝 I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
 
 <p align="center">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=WallysonGalvao&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,apollo,graphql,firebase&theme=light" />
+  </a>
 </p>
