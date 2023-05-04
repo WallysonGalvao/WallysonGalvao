@@ -16,9 +16,9 @@
 
 
 
-- 🔭 I’m currently working on **[Sportidia](https://www.sportidia.com/)** with React Native and Zustand + Apollo Client, It's cool.
-- 🌱 I’m currently learning **Animations for React Native**, these things are crazy.
-- 📝 I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
+- I’m currently working with React Native and Zustand + Apollo Client, It's cool.
+- I’m currently learning **Animations for React Native**, these things are crazy.
+- I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
 
 <p align="center">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=WallysonGalvao&show_icons=true&theme=tokyonight">
@@ -28,4 +28,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,apollo,graphql,firebase&theme=light" />
   </a>
+  <p align="center">I also do freelance work, contact me, let's talk</p>
+  <p align="center">wallyson.galvao@gmail.com</p>
 </p>
